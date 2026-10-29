@@ -1,2 +1,3 @@
-# dashboard_supermarket
-Dashboard Supermarket
+# Dashboard Compras
+
+Dashboard de compras no supermercado.
